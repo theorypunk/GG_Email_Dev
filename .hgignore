@@ -1,4 +1,4 @@
 syntax: glob
 *.zip
 *.psd
-.DS_Store
+
